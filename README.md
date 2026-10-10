@@ -1,8 +1,8 @@
-# C-Programming-Practice
+C-Programming-Practice
 
 My C programming practice from fundamentals to problem solving.
 
-## Topics Covered
+Topics Covered
 
 - C Fundamentals
 - Input/Output
@@ -10,10 +10,11 @@ My C programming practice from fundamentals to problem solving.
 - Conditional Statements
 - Nested if-else
 - Recursion
- ●Calculates the factorial of a      non-negative integer using recursion.
 
-## Goal
+Programs
+
+- "basics/recursion/factorial_recursion.c" — Calculates the factorial of a non-negative integer using recursion.
+
+Goal
 
 To build strong programming fundamentals and improve problem-solving skills through regular C practice.
-Recursion
-

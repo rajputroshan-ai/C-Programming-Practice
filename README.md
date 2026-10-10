@@ -10,6 +10,7 @@ My C programming practice from fundamentals to problem solving.
 - Conditional Statements
 - Nested if-else
 - Recursion
+
  ●Calculates the factorial of a      non-negative integer using recursion.
 
 ## Goal

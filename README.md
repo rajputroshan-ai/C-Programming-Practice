@@ -13,3 +13,6 @@ My C programming practice from fundamentals to problem solving.
 ## Goal
 
 To build strong programming fundamentals and improve problem-solving skills through regular C practice.
+Recursion
+
+- "basics/recursion/factorial_recursion.c" — Calculates the factorial of a non-negative integer using recursion.

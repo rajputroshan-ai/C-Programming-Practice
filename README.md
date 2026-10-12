@@ -14,6 +14,7 @@ Topics Covered
 Programs
 
 - "basics/recursion/factorial_recursion.c" — Calculates the factorial of a non-negative integer using recursion.
+- `projects/student_record_system.c` — A basic C program to input and display a student's roll number, name, and marks.
 
 Goal
 

@@ -21,7 +21,7 @@ scanf("%f", &s.marks);
 printf("\n--- Student Record ---\n");
 printf("Roll Number: %d\n", s.roll);
 printf("Name: %s\n", s.name);
-printf("Marks: %f\n", s.marks);
+printf("Marks: %2f\n", s.marks);
 
 return 0;
 

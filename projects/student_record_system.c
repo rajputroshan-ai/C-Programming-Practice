@@ -29,6 +29,6 @@ printf("Name: %s\n", s[i].name);
 printf("Marks: %f\n", s[i].marks);
 }
 
-return 0;
+return 0; 
 
 }

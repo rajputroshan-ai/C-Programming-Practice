@@ -17,7 +17,11 @@ int main()
 
       printf("Enter marks: ");
       scanf("%f", &s[i].marks);
+     
+        sum = sum + s[i].marks;
     }
+
+    average = sum / 3;
 
     printf("\n--- Student Records ---\n");
 

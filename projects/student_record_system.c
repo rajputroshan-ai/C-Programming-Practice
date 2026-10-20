@@ -43,5 +43,8 @@ int main()
             printf("Status: Fail\n");
         }
     }
+printf("\n--- Class Summary ---\n");
+printf("Total Marks: %f\n", sum);
+printf("Average Marks: %f\n", average);
   return 0;
 }

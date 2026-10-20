@@ -4,6 +4,8 @@ int main()
   { int roll;
     char name[50];
     float marks;
+    float sum = 0;
+    float average;
   }s[3];
 
   for(int i = 0; i < 3; i++)
